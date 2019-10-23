@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=H:\Working\jiekou\UART\Uart\Uart.ncd
+OUTFILE=H:\Working\jiekou\UART\Uart\Uart.bit
+FAMILY=Spartan6
+PART=xc6slx45-3csg484
+WORKINGDIR=H:\Working\jiekou\UART\Uart
+LICENSE=WebPack
+USER_INFO=__0_0_0

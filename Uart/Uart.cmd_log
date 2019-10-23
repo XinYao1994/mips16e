@@ -1,0 +1,91 @@
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Uart.ucf -p xc6slx45-csg484-3 Uart.ngc Uart.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Uart_map.ncd Uart.ngd Uart.pcf 
+par -w -intstyle ise -ol high -mt off Uart_map.ncd Uart.ncd Uart.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Uart.twx Uart.ncd -o Uart.twr Uart.pcf -ucf Uart.ucf 
+bitgen -intstyle ise -f Uart.ut Uart.ncd 
+bitgen -intstyle ise -f Uart.ut Uart.ncd 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Uart.ucf -p xc6slx45-csg484-3 Uart.ngc Uart.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Uart_map.ncd Uart.ngd Uart.pcf 
+par -w -intstyle ise -ol high -mt off Uart_map.ncd Uart.ncd Uart.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Uart.twx Uart.ncd -o Uart.twr Uart.pcf -ucf Uart.ucf 
+bitgen -intstyle ise -f Uart.ut Uart.ncd 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Uart.ucf -p xc6slx45-csg484-3 Uart.ngc Uart.ngd  
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Uart.ucf -p xc6slx45-csg484-3 Uart.ngc Uart.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Uart_map.ncd Uart.ngd Uart.pcf 
+par -w -intstyle ise -ol high -mt off Uart_map.ncd Uart.ncd Uart.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Uart.twx Uart.ncd -o Uart.twr Uart.pcf -ucf Uart.ucf 
+bitgen -intstyle ise -f Uart.ut Uart.ncd 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Uart.ucf -p xc6slx45-csg484-3 Uart.ngc Uart.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Uart_map.ncd Uart.ngd Uart.pcf 
+par -w -intstyle ise -ol high -mt off Uart_map.ncd Uart.ncd Uart.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Uart.twx Uart.ncd -o Uart.twr Uart.pcf -ucf Uart.ucf 
+bitgen -intstyle ise -f Uart.ut Uart.ncd 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Uart.ucf -p xc6slx45-csg484-3 Uart.ngc Uart.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Uart_map.ncd Uart.ngd Uart.pcf 
+par -w -intstyle ise -ol high -mt off Uart_map.ncd Uart.ncd Uart.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Uart.twx Uart.ncd -o Uart.twr Uart.pcf -ucf Uart.ucf 
+bitgen -intstyle ise -f Uart.ut Uart.ncd 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Uart.ucf -p xc6slx45-csg484-3 Uart.ngc Uart.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Uart_map.ncd Uart.ngd Uart.pcf 
+par -w -intstyle ise -ol high -mt off Uart_map.ncd Uart.ncd Uart.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Uart.twx Uart.ncd -o Uart.twr Uart.pcf -ucf Uart.ucf 
+bitgen -intstyle ise -f Uart.ut Uart.ncd 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Uart.ucf -p xc6slx45-csg484-3 Uart.ngc Uart.ngd  
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Uart.ucf -p xc6slx45-csg484-3 Uart.ngc Uart.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Uart_map.ncd Uart.ngd Uart.pcf 
+par -w -intstyle ise -ol high -mt off Uart_map.ncd Uart.ncd Uart.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Uart.twx Uart.ncd -o Uart.twr Uart.pcf -ucf Uart.ucf 
+bitgen -intstyle ise -f Uart.ut Uart.ncd 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Uart.ucf -p xc6slx45-csg484-3 Uart.ngc Uart.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Uart_map.ncd Uart.ngd Uart.pcf 
+par -w -intstyle ise -ol high -mt off Uart_map.ncd Uart.ncd Uart.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Uart.twx Uart.ncd -o Uart.twr Uart.pcf -ucf Uart.ucf 
+bitgen -intstyle ise -f Uart.ut Uart.ncd 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Uart.ucf -p xc6slx45-csg484-3 Uart.ngc Uart.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Uart_map.ncd Uart.ngd Uart.pcf 
+par -w -intstyle ise -ol high -mt off Uart_map.ncd Uart.ncd Uart.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Uart.twx Uart.ncd -o Uart.twr Uart.pcf -ucf Uart.ucf 
+bitgen -intstyle ise -f Uart.ut Uart.ncd 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Uart.ucf -p xc6slx45-csg484-3 Uart.ngc Uart.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Uart_map.ncd Uart.ngd Uart.pcf 
+par -w -intstyle ise -ol high -mt off Uart_map.ncd Uart.ncd Uart.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Uart.twx Uart.ncd -o Uart.twr Uart.pcf -ucf Uart.ucf 
+bitgen -intstyle ise -f Uart.ut Uart.ncd 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Uart.ucf -p xc6slx45-csg484-3 Uart.ngc Uart.ngd  
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Uart.ucf -p xc6slx45-csg484-3 Uart.ngc Uart.ngd  
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Uart.ucf -p xc6slx45-csg484-3 Uart.ngc Uart.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Uart_map.ncd Uart.ngd Uart.pcf 
+par -w -intstyle ise -ol high -mt off Uart_map.ncd Uart.ncd Uart.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Uart.twx Uart.ncd -o Uart.twr Uart.pcf -ucf Uart.ucf 
+bitgen -intstyle ise -f Uart.ut Uart.ncd 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+xst -intstyle ise -ifn "H:/Working/jiekou/UART/Uart/Uart.xst" -ofn "H:/Working/jiekou/UART/Uart/Uart.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Uart.ucf -p xc6slx45-csg484-3 Uart.ngc Uart.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Uart_map.ncd Uart.ngd Uart.pcf 
+par -w -intstyle ise -ol high -mt off Uart_map.ncd Uart.ncd Uart.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Uart.twx Uart.ncd -o Uart.twr Uart.pcf -ucf Uart.ucf 
+bitgen -intstyle ise -f Uart.ut Uart.ncd 

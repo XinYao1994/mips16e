@@ -1,0 +1,12 @@
+//! **************************************************************************
+// Written by: Map P.28xd on Thu Apr 16 17:44:09 2015
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "data_in" LOCATE = SITE "T20" LEVEL 1;
+COMP "clk" LOCATE = SITE "D11" LEVEL 1;
+COMP "Int_T_show" LOCATE = SITE "W3" LEVEL 1;
+COMP "data_out" LOCATE = SITE "T19" LEVEL 1;
+COMP "rst" LOCATE = SITE "V5" LEVEL 1;
+SCHEMATIC END;
+

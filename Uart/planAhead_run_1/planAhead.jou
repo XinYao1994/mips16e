@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# PlanAhead v14.2 (64-bit)
+# Build 194362 by xbuild on Fri Jul 20 18:52:11 MDT 2012
+# Start of session at: Thu Apr 16 17:19:35 2015
+# Process ID: 3496
+# Log file: H:/Working/jiekou/UART/Uart/planAhead_run_1/planAhead.log
+# Journal file: H:/Working/jiekou/UART/Uart/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source H:/Working/jiekou/UART/Uart/pa.fromNetlist.tcl

@@ -1,0 +1,5 @@
+NET clk LOC = D11;   #clk
+NET rst LOC = V5;   
+NET data_in LOC = T20 | IOSTANDARD = "LVCMOS33";  #clk
+NET data_out LOC = T19 | IOSTANDARD = "LVCMOS33";  #clk 
+NET Int_T_show LOC = W3; # 7-seg CA

@@ -1,0 +1,29 @@
+Running: C:\Xilinx\14.2\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o H:/Working/jiekou/UART/Uart/uart_test_isim_beh.exe -prj H:/Working/jiekou/UART/Uart/uart_test_beh.prj work.uart_test work.glbl 
+ISim P.28xd (signature 0x1048c146)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "H:/Working/jiekou/UART/Uart/Trans.v" into library work
+Analyzing Verilog file "H:/Working/jiekou/UART/Uart/Timer.v" into library work
+Analyzing Verilog file "H:/Working/jiekou/UART/Uart/Recve.v" into library work
+Analyzing Verilog file "H:/Working/jiekou/UART/Uart/Baud.v" into library work
+Analyzing Verilog file "H:/Working/jiekou/UART/Uart/Uart.v" into library work
+Analyzing Verilog file "H:/Working/jiekou/UART/Uart/uart_test.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 97472 KB
+Fuse CPU Usage: 312 ms
+Compiling module Timer
+Compiling module Baud_default
+Compiling module Recve
+Compiling module Trans
+Compiling module Uart
+Compiling module uart_test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 Verilog Units
+Built simulation executable H:/Working/jiekou/UART/Uart/uart_test_isim_beh.exe
+Fuse Memory Usage: 106004 KB
+Fuse CPU Usage: 359 ms

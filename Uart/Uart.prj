@@ -1,0 +1,5 @@
+verilog work "Trans.v"
+verilog work "Timer.v"
+verilog work "Recve.v"
+verilog work "Baud.v"
+verilog work "Uart.v"
