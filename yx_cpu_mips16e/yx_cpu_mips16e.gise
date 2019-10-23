@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="yx_cpu_mips16e.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="M0_memory_unit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="M0_memory_unit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="M0_memory_unit.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="M1_processing_unit.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="M1_processing_unit.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="M1_processing_unit.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="M1_processing_unit.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="M1_processing_unit.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="M1_processing_unit.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="M1_processing_unit.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="M1_processing_unit.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="M1_processing_unit_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="M1_processing_unit_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="M1_processing_unit_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Register_define.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Register_define.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Register_define.xst"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="alu_mips.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="alu_mips.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="alu_mips.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="program_counter.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="program_counter.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="program_counter.xst"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="yx_cpu_mips16e.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="yx_cpu_mips16e.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="yx_cpu_mips16e.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="yx_cpu_mips16e.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="yx_cpu_mips16e.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="yx_cpu_mips16e.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="yx_cpu_mips16e.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="yx_cpu_mips16e.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="yx_cpu_mips16e_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="yx_cpu_mips16e_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="yx_cpu_mips16e_xst.xrpt"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1425351416" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1425351416">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1425370887" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="3678165474033486606" xil_pn:start_ts="1425370887">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1425374841" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="5906470819943499109" xil_pn:start_ts="1425374841">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1425351416" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1425351416">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1425370887" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="3198116219689637776" xil_pn:start_ts="1425370887">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1425374841" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="8977612015756275229" xil_pn:start_ts="1425374841">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1425374841" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="8107417591344707311" xil_pn:start_ts="1425374841">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1425374872" xil_pn:in_ck="-1609806573942987559" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="-5741760168973242988" xil_pn:start_ts="1425374865">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="M1_processing_unit.lso"/>
+      <outfile xil_pn:name="M1_processing_unit.ngc"/>
+      <outfile xil_pn:name="M1_processing_unit.ngr"/>
+      <outfile xil_pn:name="M1_processing_unit.prj"/>
+      <outfile xil_pn:name="M1_processing_unit.stx"/>
+      <outfile xil_pn:name="M1_processing_unit.syr"/>
+      <outfile xil_pn:name="M1_processing_unit.xst"/>
+      <outfile xil_pn:name="M1_processing_unit_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>

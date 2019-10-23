@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "D:/zuyuan/SelfMake/cpu/yx_cpu_mips16e/yx_cpu_mips16e.xst" -ofn "D:/zuyuan/SelfMake/cpu/yx_cpu_mips16e/yx_cpu_mips16e.syr" 
+xst -intstyle ise -ifn "D:/zuyuan/SelfMake/cpu/yx_cpu_mips16e/yx_cpu_mips16e.xst" -ofn "D:/zuyuan/SelfMake/cpu/yx_cpu_mips16e/yx_cpu_mips16e.syr" 
+xst -intstyle ise -ifn "D:/zuyuan/SelfMake/cpu/yx_cpu_mips16e/yx_cpu_mips16e.xst" -ofn "D:/zuyuan/SelfMake/cpu/yx_cpu_mips16e/yx_cpu_mips16e.syr" 
+xst -intstyle ise -ifn "D:/zuyuan/SelfMake/cpu/yx_cpu_mips16e/yx_cpu_mips16e.xst" -ofn "D:/zuyuan/SelfMake/cpu/yx_cpu_mips16e/yx_cpu_mips16e.syr" 
+xst -intstyle ise -ifn "D:/zuyuan/SelfMake/cpu/yx_cpu_mips16e/yx_cpu_mips16e.xst" -ofn "D:/zuyuan/SelfMake/cpu/yx_cpu_mips16e/yx_cpu_mips16e.syr" 
+xst -intstyle ise -ifn "D:/zuyuan/SelfMake/cpu/yx_cpu_mips16e/yx_cpu_mips16e.xst" -ofn "D:/zuyuan/SelfMake/cpu/yx_cpu_mips16e/yx_cpu_mips16e.syr" 
+xst -intstyle ise -ifn "D:/zuyuan/SelfMake/cpu/yx_cpu_mips16e/yx_cpu_mips16e.xst" -ofn "D:/zuyuan/SelfMake/cpu/yx_cpu_mips16e/yx_cpu_mips16e.syr" 

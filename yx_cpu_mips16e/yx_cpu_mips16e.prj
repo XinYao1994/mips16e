@@ -1,0 +1,4 @@
+verilog work "Register_define.v"
+verilog work "program_counter.v"
+verilog work "M1_processing_unit.v"
+verilog work "yx_cpu_mips16e.v"

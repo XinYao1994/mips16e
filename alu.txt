@@ -1,0 +1,31 @@
+ADD   out = data1 + data2
+ADDIU  ADDIU3 ADDSP3  ADDSP  ADDU
+B  BEQZ  BNEZ  BTEQZ  BTNEZ
+
+SUBU  out = data1 - data2
+
+NOR   out = data1 ^ data2
+
+AND   out = data1 & data2(come form speical)
+
+OR    out = data1 | data2
+
+NEG   out = 0 - data1
+
+NOT   out = ~data1
+
+SLL   out = data1 << data2
+SLL   SLLV  
+
+SRA   out = data1 >> data2
+SRA   SRAV   SRL   SRLV
+
+MOVE1  out = data1(come form reg)
+JALR  JR  JRRA  LI  LW  LW_SP  MFIH  MOVE
+MTIH  MTSP  SW  SW_SP
+
+MOVE2  out = data2(come from speical)
+MFPC  SW_RS(RA)
+
+default
+CMP  CMPI  NOP  SLT  SLTI  SLTU   SLTUI
